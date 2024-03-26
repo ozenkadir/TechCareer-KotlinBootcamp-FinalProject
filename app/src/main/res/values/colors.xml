@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yazi1">#000000</color>
+    <color name="yazi2">#606060</color>
+    <color name="primary">#FF0000</color>
+    <color name="secondary">#FFFFFFFF</color>
+    <color name="cardBackgroundColor">#FFEBEE</color>
+    <color name="tranparent">#00FFFFFF</color>
+
+</resources>
